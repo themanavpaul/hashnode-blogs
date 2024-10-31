@@ -1,5 +1,5 @@
 ---
-title: "What happens when you search 8.8.8.8 ?"
+title: "What happens when you search 8.8.8.8?"
 seoTitle: "Google Search Process Explained"
 seoDescription: "Explore the journey of data from browser to server when you type "www.google.com" and uncover network concepts at play"
 datePublished: Wed Oct 30 2024 10:41:04 GMT+0000 (Coordinated Universal Time)
