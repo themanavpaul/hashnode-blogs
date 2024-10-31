@@ -1,12 +1,12 @@
 ---
-title: "What happens when you search Google.com?"
+title: "What happens when you search 8.8.8.8 dns?"
 seoTitle: "Google Search Process Explained"
 seoDescription: "Explore the journey of data from browser to server when you type "www.google.com" and uncover network concepts at play"
 datePublished: Wed Oct 30 2024 10:41:04 GMT+0000 (Coordinated Universal Time)
 cuid: cm2vqxmeo000a09jwfquqa0bu
-slug: what-happens-when-you-search-googlecom
+slug: what-happens-when-you-search-8888-dns
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1730261014085/52214c79-b91f-4045-a490-5f5db08f7a51.png
-tags: google, 30-days-of-code, computer-networking, ip-address, wemakedevs, 100xdevs
+tags: google, devops, 30-days-of-code, computer-networking, ip-address, wemakedevs, 100xdevs
 
 ---
 
