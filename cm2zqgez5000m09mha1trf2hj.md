@@ -13,7 +13,7 @@ tags: ai, nlp, 100daysofcode, llm, wemakedevs, generative-ai, genai, mastergenai
 👋🏻 Welcome back to my blog! On [**Day 1**](https://manavpaul.hashnode.dev/day-1-introduction-to-generative-ai), we explored the fundamentals of generative AI and its potential applications. Today, we'll dive deeper into the exciting process of building end-to-end generative AI pipelines.  
 **Full Playlist** : **▶** [**Master GenAI Series**](https://manavpaul.hashnode.dev/series/generative-ai)
 
-If you're new here, I'm [**Manav Paul**](https://linktr.ee/themanavpaul), a 24-year-old **spiritual developer** on a mission to understand and leverage the power of generative AI. This blog serves as a roadmap, guiding you through my 30-day journey of discovering the fascinating world of generative AI. Let's continue our exploration together!
+If you're new here, I'm [**Manav Paul**](https://linktr.ee/themanavpaul), a 24-year-young **spiritual developer** on a mission to understand and leverage the power of generative AI. This blog serves as a roadmap, guiding you through my 30-day journey of discovering the fascinating world of generative AI. Let's continue our exploration together!
 
 # Steps for Generative AI Pipeline
 
