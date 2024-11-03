@@ -10,7 +10,8 @@ tags: ai, nlp, 100daysofcode, llm, wemakedevs, generative-ai, genai, mastergenai
 
 ---
 
-👋🏻 Welcome back to my blog! On [**Day 1**](https://manavpaul.hashnode.dev/day-1-introduction-to-generative-ai), we explored the fundamentals of generative AI and its potential applications. Today, we'll dive deeper into the exciting process of building end-to-end generative AI pipelines.
+👋🏻 Welcome back to my blog! On [**Day 1**](https://manavpaul.hashnode.dev/day-1-introduction-to-generative-ai), we explored the fundamentals of generative AI and its potential applications. Today, we'll dive deeper into the exciting process of building end-to-end generative AI pipelines.  
+**Full Playlist** : **▶** [**Master GenAI Series**](https://manavpaul.hashnode.dev/series/generative-ai)
 
 If you're new here, I'm [**Manav Paul**](https://linktr.ee/themanavpaul), a 24-year-old **spiritual developer** on a mission to understand and leverage the power of generative AI. This blog serves as a roadmap, guiding you through my 30-day journey of discovering the fascinating world of generative AI. Let's continue our exploration together!
 
@@ -149,16 +150,16 @@ Once you've acquired your dataset, the next crucial step is **data preprocessing
 * **Remove emojis:** Emojis can introduce noise into your data, so it's often beneficial to remove them.
     
 * ```python
-                      import emoji
-                      text = emoji.emojize("Python is fun :red_heart:")
-                      print(text)
+                        import emoji
+                        text = emoji.emojize("Python is fun :red_heart:")
+                        print(text)
     ```
     
     `Python is fun ❤`
     
 * ```python
-                      Text = text.encode("utf-8")
-                      print(Text)
+                        Text = text.encode("utf-8")
+                        print(Text)
     ```
     
     `b'Python is fun \xe2\x9d\xa4'`
@@ -214,43 +215,43 @@ Once you've acquired your dataset, the next crucial step is **data preprocessing
     **Implementation of Parts-of-Speech tagging using Spacy in Python**
     
 * ```python
-                      # Installing Packages
-                      !pip install spacy
-                      !python -m spacy download en_core_web_sm
+                        # Installing Packages
+                        !pip install spacy
+                        !python -m spacy download en_core_web_sm
     ```
     
 * ```python
-                      #importing libraries 
-                      import spacy
-                      
-                      # Load the English language model
-                      nlp = spacy.load("en_core_web_sm")
-                      
-                      # Sample text
-                      text = "The quick brown fox jumps over the lazy dog."
-                      
-                      # Process the text with SpaCy
-                      doc = nlp(text)
-                      
-                      # Display the PoS tagged result
-                      print("Original Text: ", text)
-                      print("PoS Tagging Result:")
-                      for token in doc:
-                      	print(f"{token.text}: {token.pos_}")
-                      
-                      # Ouptut for the Code
-                      Original Text : The quick brown fox jumps over the lazy dog.
-                      POS Tagging Result:
-                      The : determiner (DT)
-                      quick : adjective (JJ)
-                      brown : adjective (JJ)
-                      fox : noun (NN)
-                      jumps : verb (VBZ)
-                      over : preposition (IN)
-                      the : determiner (DT)
-                      lazy : adjective (JJ)
-                      dog : noun (NN)
-                      . : punctuation (PUNCT)
+                        #importing libraries 
+                        import spacy
+                        
+                        # Load the English language model
+                        nlp = spacy.load("en_core_web_sm")
+                        
+                        # Sample text
+                        text = "The quick brown fox jumps over the lazy dog."
+                        
+                        # Process the text with SpaCy
+                        doc = nlp(text)
+                        
+                        # Display the PoS tagged result
+                        print("Original Text: ", text)
+                        print("PoS Tagging Result:")
+                        for token in doc:
+                        	print(f"{token.text}: {token.pos_}")
+                        
+                        # Ouptut for the Code
+                        Original Text : The quick brown fox jumps over the lazy dog.
+                        POS Tagging Result:
+                        The : determiner (DT)
+                        quick : adjective (JJ)
+                        brown : adjective (JJ)
+                        fox : noun (NN)
+                        jumps : verb (VBZ)
+                        over : preposition (IN)
+                        the : determiner (DT)
+                        lazy : adjective (JJ)
+                        dog : noun (NN)
+                        . : punctuation (PUNCT)
     ```
     
 * **Parsing Tree:** Analyze the syntactic structure of the text to understand relationships between words.
