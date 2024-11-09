@@ -136,7 +136,7 @@ This is just a glimpse of what Bolt.new can do! With its intuitive interface and
 
 Start building your own projects with Bolt.new and share your creations online! Don't forget to tag us and let us know what you build
 
-**✔Journey →** [Github Repository](https://github.com/themanavpaul/master-gen-ai/tree/main)
+⭐**Github Repo** : [Journey Roadmap](https://github.com/themanavpaul/master-gen-ai)
 
 **▶** Next → [**Master GenAI Series**](https://manavpaul.hashnode.dev/series/generative-ai)
 
