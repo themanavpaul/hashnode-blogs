@@ -5,7 +5,7 @@ seoDescription: "Saved a marketing firm $5000 with ScrapeX, a Twitter scraper pr
 datePublished: Wed Feb 19 2025 15:09:03 GMT+0000 (Coordinated Universal Time)
 cuid: cm7c1tn8z000d0al19wgnawrr
 slug: day-630-i-saved-a-marketing-firm-5000-with-a-weekend-project
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739984057724/ae56469a-e203-41fd-aba8-29f159200fe4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739984175343/caf24084-e0e6-4be3-bfdd-203e3240541e.png
 tags: twitter, python, full-stack, scraping, 10xengineer, generative-ai, genai, 100xdevs, mastergenai
 
 ---
