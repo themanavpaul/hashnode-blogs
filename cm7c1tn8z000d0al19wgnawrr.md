@@ -16,11 +16,11 @@ A weekend, a few lines of code, a strong cup of coffee, and some classical music
 
 While talking to a marketing agency, I discovered they were spending thousands of dollars on tools to track brand mentions, identify industry trends, and run influencer marketing campaigns. That got me thinking—what if I could build a tool to do all of this for free?
 
-So, I built **ScrapeX**, a Twitter scraper with sentiment analysis, without using Twitter’s paid API. This project not only fetched real-time data from Twitter but also performed sentiment analysis, providing valuable insights for the firm.  
-  
-Video for better Understanding:  
+So, I built **ScrapeX**, a Twitter scraper with sentiment analysis, without using Twitter’s paid API. This project not only fetched real-time data from Twitter but also performed sentiment analysis, providing valuable insights for the firm.
 
-%[https://youtu.be/xsPSaGd6Lp4] 
+Video for better Understanding:
+
+%[https://www.youtube.com/watch?v=xsPSaGd6Lp4] 
 
 ---
 
