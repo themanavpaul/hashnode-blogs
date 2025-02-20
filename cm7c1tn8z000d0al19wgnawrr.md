@@ -1,5 +1,5 @@
 ---
-title: "Day 6/30 I Saved a Marketing Firm $5000 With a Weekend Project"
+title: "Day 6/30 GenAI Series: I Saved a Marketing Firm $5000 With a Weekend Project"
 seoTitle: "Saved Marketing Firm $5000 in One Weekend"
 seoDescription: "Saved a marketing firm $5000 with ScrapeX, a Twitter scraper providing real-time insights without costly tools. Learn how in this 30-day blog series"
 datePublished: Wed Feb 19 2025 15:09:03 GMT+0000 (Coordinated Universal Time)
